@@ -1,3 +1,9 @@
+---
+id: fish
+aliases: []
+tags: []
+---
+
 # How to install and use Fish shell
 
 - Friendly Interactive SHell
@@ -111,7 +117,7 @@ sudo pacman -S bat
 - Dependency: Fzf
 
 Copy the bash script from the github repo
-  and change the directories inside 
+and change the directories inside
 
 - [github.com/tmux-sessionizer](https://github.com/edr3x/tmux-sessionizer)
 

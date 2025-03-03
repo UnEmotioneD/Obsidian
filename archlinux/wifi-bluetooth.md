@@ -1,3 +1,9 @@
+---
+id: wifi-bluetooth
+aliases: []
+tags: []
+---
+
 # wifi-bluetooth
 
 ## Fix bluetooth

@@ -1,3 +1,9 @@
+---
+id: ssh
+aliases: []
+tags: []
+---
+
 # Generating an SSH Key for Secure Authentication
 
 SSH (Secure Shell) keys provide a secure and convenient way to authenticate with

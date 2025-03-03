@@ -1,3 +1,9 @@
+---
+id: post_install
+aliases: []
+tags: []
+---
+
 # After installing Arch linux
 
 - [10 things you must do after installing arch linux by Ksk Royal](https://www.youtube.com/watch?v=odgD_RdJjCU)

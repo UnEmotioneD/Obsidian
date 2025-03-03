@@ -1,3 +1,9 @@
+---
+id: sddm-hyprpaper
+aliases: []
+tags: []
+---
+
 # sddm & hyprpaper
 
 ## sddm

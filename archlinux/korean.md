@@ -1,3 +1,9 @@
+---
+id: korean
+aliases: []
+tags: []
+---
+
 # Korean Localization on Arch Linux (Hyprland)
 
 This guide covers the setup of Korean fonts and input methods on Arch Linux with Hyprland.

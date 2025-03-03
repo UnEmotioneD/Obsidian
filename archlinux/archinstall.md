@@ -1,3 +1,9 @@
+---
+id: archinstall
+aliases: []
+tags: []
+---
+
 # Arch 리눅스 설치
 
 ## 설치 환경

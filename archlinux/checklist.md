@@ -1,3 +1,9 @@
+---
+id: checklist
+aliases: []
+tags: []
+---
+
 # Arch Linux Checklist
 
 - [x] install arch

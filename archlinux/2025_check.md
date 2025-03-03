@@ -1,3 +1,9 @@
+---
+id: 2025_check
+aliases: []
+tags: []
+---
+
 # Checklist
 
 install
@@ -41,3 +47,7 @@ visual-studio-code-bin
 ## pacman
 
 set Color and ILoveCandy
+
+---
+
+### Happy Hacking 🎉

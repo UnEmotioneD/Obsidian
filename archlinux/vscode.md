@@ -1,3 +1,9 @@
+---
+id: vscode
+aliases: []
+tags: []
+---
+
 # Install Visual studio code
 
 ```sh

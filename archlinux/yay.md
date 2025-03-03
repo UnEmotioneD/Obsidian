@@ -1,3 +1,9 @@
+---
+id: yay
+aliases: []
+tags: []
+---
+
 # Yay
 
 [DenshiVideo](https://www.youtube.com/watch?v=NzNuFN9hqjI)

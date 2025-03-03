@@ -1,3 +1,9 @@
+---
+id: brightness
+aliases: []
+tags: []
+---
+
 # Brightness control with Brillo
 
 ## Brillo
