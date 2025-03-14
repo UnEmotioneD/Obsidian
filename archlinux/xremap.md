@@ -45,4 +45,4 @@ exec = xremap ~/.config/xremap/config.yml
 
 ---
 
-### Happy Hacking!!!
+### Happy Hacking 🎉
