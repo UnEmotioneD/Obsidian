@@ -141,7 +141,9 @@ input {
 
 ### general usage
 
-firefox
+- firefox
+  - to turn off fullscreen warning
+  - with url goto `about:config` and search for `full-s`
 
 bluez
 bulez-utils
